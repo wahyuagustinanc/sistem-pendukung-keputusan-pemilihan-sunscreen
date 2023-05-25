@@ -1,2 +1,2 @@
-# Spk-Topsis-BusPariwisata
-Sistem Pendukung Keputusan Bus Pariwisata Menggunakan Metode Topsis
+# Spk-Topsis-Pemilihan Sunscreen 
+Sistem Pendukung Keputusan Pemilihan Sunscreen Menggunakan Metode Topsis
